@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+  $array=[
+  "foo"=>"bar",
+  "bar"=>"foo",
+    100=> -100,
+    -100=>100,
+  ];
+  
+  echo $array["bar"];
+  
+?>
+
+</body>
+</html>
