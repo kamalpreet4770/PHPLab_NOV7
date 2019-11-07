@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+  $ages = array(
+  "john" => 34, "Mary"=>45, "Kamal"=>21
+  );
+
+  echo $ages["john"];
+  
+  ?>
+
+</body>
+</html>
